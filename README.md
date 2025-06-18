@@ -70,5 +70,3 @@ A React application that fetches user data from an external API and displays it 
    ```bash
    git clone https://github.com/your-username/user-data-table-viewer.git
    cd user-data-table-viewer
-
-   cd user-data-table-viewer
