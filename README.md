@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 📋 User Data Table Viewer (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React application that fetches user data from an external API and displays it in a structured, searchable table. Built as part of a React learning task to practice API integration and data rendering on the client side.
 
-## Available Scripts
+🔗 **Live Demo:** [https://task4-react-js.vercel.app/](https://task4-react-js.vercel.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Fetches user records from `https://dummyjson.com/users`  
+- Displays user data in a responsive table  
+- Client-side data rendering using React hooks  
+- Clean and organized UI layout  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📸 Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🏠 Home Page
 
-### `npm run build`
+This is the initial view of the page when loaded.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Home Page](./studentdata.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⚙️ Tech Stack
 
-### `npm run eject`
+- ReactJS  
+- HTML5 & CSS3  
+- JavaScript (ES6)  
+- Fetch API
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📦 Installation & Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Clone the repository:**
+   ```bash
+   git clone # 📋 User Data Table Viewer (React)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+A React application that fetches user data from an external API and displays it in a structured, searchable table. Built as part of a React learning task to practice API integration and data rendering on the client side.
 
-## Learn More
+🔗 **Live Demo:** [https://task4-react-js.vercel.app/](https://task4-react-js.vercel.app/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Features
 
-### Code Splitting
+- Fetches user records from `https://dummyjson.com/users`  
+- Displays user data in a responsive table  
+- Client-side data rendering using React hooks  
+- Clean and organized UI layout  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## ⚙️ Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- ReactJS  
+- HTML5 & CSS3  
+- JavaScript (ES6)  
+- Fetch API
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📦 Installation & Setup
 
-### Advanced Configuration
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/user-data-table-viewer.git
+   cd user-data-table-viewer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   cd user-data-table-viewer
